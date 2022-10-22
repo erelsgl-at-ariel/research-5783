@@ -170,10 +170,10 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 ניתן לבחור מאמרים בנושאים נוספים, מתוך כתבי-עת וכנסים שהתפרסמו לאחרונה. יש לבחור מאמרים על אלגוריתמים שאפשר לתכנת.
 מומלץ להתייעץ איתי בשעת הקבלה:
 
-* [כתב-עת לבינה מלאכותית - JAIR](https://www.jair.org/index.php/jair/issue/view/1161)
-* [כתב-עת לאלגוריתמים - TALG](https://dl.acm.org/loi/talg/group/d2020.y2021)
-* [כתב-עת לחישוב - JACM](https://dl.acm.org/loi/jacm/group/d2020.y2021)
-* [כתב-עת לכלכלה וחישוב - TEAC](https://dl.acm.org/loi/teac/group/d2020.y2021)
+* [כתב-עת לבינה מלאכותית - JAIR](https://www.jair.org/index.php/jair/)
+* [כתב-עת לאלגוריתמים - TALG](https://dl.acm.org/loi/talg/group/d2020.y2022)
+* [כתב-עת לחישוב - JACM](https://dl.acm.org/loi/jacm/group/d2020.y2022)
+* [כתב-עת לכלכלה וחישוב - TEAC](https://dl.acm.org/loi/teac/group/d2020.y2022)
 * [כנס יסודות מדעי המחשב - FOCS](https://focs2021.cs.colorado.edu/focs-2021-accepted-papers/)
 * [כנס תיכנות ואילוצים - CP](https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16213)
 * [כנס אלגוריתמים מקורבים ואקראיים - APPROX](https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16208)
