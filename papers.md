@@ -16,20 +16,13 @@
 האלגוריתמים יכולים להשתלב בספרייה 
 [networkx](https://networkx.org/).
 
-* ~[Maximum priority matching (Turner, 2015)](https://arxiv.org/abs/1512.08555) -  ליחיד. אפשר לשלב עם [Faster Maximium Priority Matchings in Bipartite Graphs](https://arxiv.org/abs/1512.09349) לזוג.~
-תפוס
+* [Maximum priority matching (Turner, 2015)](https://arxiv.org/abs/1512.08555) -  ליחיד. אפשר לשלב עם [Faster Maximium Priority Matchings in Bipartite Graphs](https://arxiv.org/abs/1512.09349) לזוג.
 * [Cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג (או ליחיד בלי פרק 5)
 * [Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג.
-* ~[Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - (אלגוריתם 1) ליחיד~
- תפוס
+* [Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - (אלגוריתם 1) ליחיד
 * [Fair integral network flow (Frank and Murota, 2022)](https://arxiv.org/abs/1907.02673) - לזוג.
-* ~[Rainbow matching (Gupta et al, 2019)](https://link.springer.com/article/10.1007/s00453-018-0497-3) - לזוג (פרקים 1--3) או ליחיד (פרקים 1--2).~
-חצי תפוס
 * [Dividing a Graphical Cake (Bei and Suksompong, 2019)](https://arxiv.org/pdf/1910.14129.pdf#subsection.4.1) - ליחיד (פרק 4).
 * [Fractional matchings (Bourjolly and Pulleyblank, 1989)](https://www.sciencedirect.com/science/article/pii/0166218X9290273D) - לזוג (או ליחיד בלי פרק 5).
-* ~[Maximum Weight Clique (Cai et al, 2021)](https://www.jair.org/index.php/jair/article/view/12327) - האלגוריתם כבר ממומש ב ++C; אפשר לתרגם אותו לפייתון (לזוג) או לעטוף אותו בפייתון (ליחיד).~
-תפוס
-
 
 ## אלגוריתמי תזמון תהליכים וחלוקת מספרים
 
@@ -37,24 +30,16 @@
 האלגוריתמים יכולים להשתלב בספרייה 
 [prtpy](https://github.com/erelsgl/prtpy).
 
-* ~[An Application of Bin-Packing to Multiprocessor Scheduling (Coffman et al, 1978)](https://epubs.siam.org/doi/abs/10.1137/0207001) - ליחיד.~
-תפוס
 * [Using dual approximation algorithms for scheduling problems (Hochbaum and Shomys, 1987)](https://doi.org/10.1145/7531.7535) - לזוג (פרקים 1--4, עמודים 1--12)
-* ~[Approximation schemes for scheduling on parallel machines (Alon et al, 1998)](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291099-1425%28199806%291%3A1%3C55%3A%3AAID-JOS2%3E3.0.CO%3B2-J) - לזוג (פרקים 1--4) או ליחיד (פרקים 1--2). ~
-חצי תפוס
-* ~[A complete anytime algorithm for balanced number partitioning (Mertens, 1999)](https://arxiv.org/abs/cs/9903011) -  ליחיד.~
-תפוס
 * ~[Multi-way number-partitioning (Korf, 2009)](http://ijcai.org/papers09/Papers/IJCAI09-096.pdf) - לזוג.~
 תפוס
 * ~[Hybrid recursive number partitioning (Korf, 2011)](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/viewPaper/3364) - לזוג.~
 תפוס
 * ~[Improved bin completion (Schreiber and Korf, 2013)](https://www.ijcai.org/Proceedings/13/Papers/103.pdf) - לזוג.~
 תפוס
-* ~[Search strategies for number partitioning (Moffitt, 2013)](https://www.ijcai.org/Proceedings/13/Papers/099.pdf) - לזוג.~
-תפוס
-* ~[Optimally Scheduling Small Numbers of Identical Parallel Machines (Korf and Schreiber, 2013)](https://ojs.aaai.org/index.php/ICAPS/article/view/13544) - לזוג.~
-תפוס
-* [Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - לזוג.
+* [Search strategies for number partitioning (Moffitt, 2013)](https://www.ijcai.org/Proceedings/13/Papers/099.pdf) - ליחיד או לזוג.
+* [Optimally Scheduling Small Numbers of Identical Parallel Machines (Korf and Schreiber, 2013)](https://ojs.aaai.org/index.php/ICAPS/article/view/13544) - ליחיד או לזוג.
+* [Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג.
 
 
 ## אלגוריתמי חלוקה הוגנת של חפצים
@@ -74,14 +59,11 @@
 * [The Unreasonable Fairness of Maximum Nash Welfare (Caragiannis et al, 2019)](http://eprints.gla.ac.uk/123283/1/123283.pdf) - ליחיד.
 * ~[Fairly Allocating Many Goods with Few Queries (Oh et al, 2019)](https://doi.org/10.1609%2Faaai.v33i01.33012141) - ליחיד.~
 תפוס
-* ~[Maximin-Aware Allocations of Indivisible Goods (Chan et al, 2019)](https://arxiv.org/abs/1905.09969) - ליחיד.~
-תפוס
+* [Maximin-Aware Allocations of Indivisible Goods (Chan et al, 2019)](https://arxiv.org/abs/1905.09969) - ליחיד.
 * [Beating 1/2 for EFX and GMMS (Amanatidis et al, 2020)](https://doi.org/10.1016%2Fj.tcs.2020.07.006) - ליחיד.
 * [The Virtue of Donating Items (Caragiannis et al, 2019)](https://arxiv.org/abs/1902.04319) - ליחיד.
 * [Approximation Algorithms for Maximin Fair Division (Barman and Krishnamurthy, 2020)](https://dl.acm.org/doi/abs/10.1145/3381525) - ליחיד (אלגוריתמים 1, 2, 5). 
 * ~[Fair Division Under Cardinality Constraints (Barman and Biswas, 2018)](https://arxiv.org/abs/1804.09521) - ליחיד (אלגוריתמים 1, 2).~
-תפוס
-* ~[Pareto optimal and almost-proportional allocation (Aziz et al, 2020)](https://www.sciencedirect.com/science/article/pii/S0167637720301024) - ליחיד (אלגוריתם 2).~
 תפוס
 * [Equitable Allocations of Indivisible Goods (Freeman et al, 2019)](https://arxiv.org/abs/1905.10656) - ליחיד (משפטים 2, 3).
 * [Almost Envy-Freeness with General Valuations (Plaut and Roughgarden, 2020)](https://dl.acm.org/doi/abs/10.1145/3140756).
@@ -108,13 +90,8 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 האלגוריתמים יכולים להשתלב בספרייה 
 [fairpy](https://github.com/erelsgl/fairpy).
 
-~* [Competitive Fair Division (Brams and Kilgour, 2001)](https://doi.org/10.1086%2F319550) - ליחיד.~
-תפוס
-* ~[Competitive envy-free division (Sung and Vlach, 2004)](https://doi.org/10.1007%2Fs00355-003-0240-z) - ליחיד~.
-תפוס
-* [Bidding for envy-freeness (Haake Raith and Su, 2002)](https://doi.org/10.1007%2Fs003550100149) - לזוג.
+* [Bidding for envy-freeness (Haake Raith and Su, 2002)](https://doi.org/10.1007%2Fs003550100149) - ליחיד או לזוג.
 * [Fair Division with Subsidy (Halpern and Shah, 2019)](https://link.springer.com/chapter/10.1007/978-3-030-30473-7_25) - לזוג (Proposition 1, Theorem 2, Theorem 5, Proposition 4, Theorem 6, Appendix B).
-תפוס
 * [One Dollar Each Eliminates Envy (Brustle et al, 2020)](https://doi.org/10.1145/3391403.3399447) - ליחיד (אלגוריתם 1 + חישוב הסובסידיה).
 * [Computing envy-freeable allocations with limited subsidies (Caragiannis and Ioannidis, 2021)](https://arxiv.org/abs/2002.02789) - ליחיד (פרק 3). 
 * [Envy-freeness and Equitability with Monetary Transfers (Aziz, 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16645) - לזוג (אלגוריתמים 1, 2).
@@ -174,14 +151,15 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 
 * [Strategic Voting in the Context of Negotiating Teams (Schmerler and Hazon, 2021)](https://arxiv.org/abs/2107.14097) - ליחיד.
 * [Manipulation of k-Coalitional Games on Social Networks (Waxman, Hazon and Kraus, 2021)](https://arxiv.org/abs/2105.09852) - ליחיד.
-* ~[Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד.~
-תפוס
+* [Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד. שימו לב: בקישור יש תקציר בלבד - המאמר המלא (7 עמודים) יישלח בדואל.
 * ~[Explainable Shapley-Based Allocation (Nizri, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Explainable_allocation_SA.pdf) - ליחיד.~ 
 תפוס
 * [Beyond majority: Label ranking ensembles based on voting rules (Werbin-Ofir, Dery, Shmueli, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419304221) - ליחיד.
 * [BoostLR: a boosting-based learning ensemble for label ranking tasks (Dery and Shmueli, 2020)](https://ieeexplore.ieee.org/abstract/document/9205798/) - ליחיד.
-* ~[Reaching consensus under a deadline (Dery et al, 2021)](https://link.springer.com/article/10.1007/s10458-020-09490-7) - ליחיד.~
-תפוס
+* [Reaching consensus under a deadline (Dery et al, 2021)](https://link.springer.com/article/10.1007/s10458-020-09490-7) - ליחיד.
+* [Star-Tracker Algorithm for Smartphones and Commercial Micro-Drones (Marbel,  Boaz Ben-Moshe, Yozevitch, 2020)](https://www.mdpi.com/1424-8220/20/4/1106) - ליחיד (אלגוריתמים 1,2) או לזוג (גם אלגוריתמים 3,4).
+* [Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.
+* [A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד.
 
 
 
