@@ -18,6 +18,7 @@
 
 * [המטלות וכללי חישוב הציון בקורס](grade-rules.md)
 * [למי הקורס לא מתאים](disclaimer.md)
+* [תקנון היושר של המחלקה](https://www.ariel.ac.il/wp/cs/wp-content/uploads/sites/88/2020/08/Guidelines-for-Academic-Integrity.pdf)
 * [רשימת מאמרים לבחירה](papers.md) - הרשימה תתעדכן לקראת תחילת הסמסטר.
 
 
