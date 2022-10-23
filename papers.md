@@ -26,7 +26,6 @@
 
 ## אלגוריתמי תזמון תהליכים וחלוקת מספרים
 
-
 האלגוריתמים יכולים להשתלב בספרייה 
 [prtpy](https://github.com/erelsgl/prtpy).
 
@@ -83,6 +82,22 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [High-Multiplicity Fair Allocation Made More Practical (Bredereck et al, 2021)](https://dl.acm.org/doi/abs/10.5555/3463952.3463988) - לזוג.
 * [Equitable distribution of indivisible objects (Demko and Hill, 1988)](https://www.sciencedirect.com/science/article/abs/pii/0165489688900479) - לזוג.
 * [Worst case compromises in matroids (Gourvet et al, 2015)](https://www.sciencedirect.com/science/article/pii/S0304397515003722#br0150) - לזוג.
+
+
+## אלגוריתמים מאוניברסיטת אריאל
+
+* [Strategic Voting in the Context of Negotiating Teams (Schmerler and Hazon, 2021)](https://arxiv.org/abs/2107.14097) - ליחיד.
+* [Manipulation of k-Coalitional Games on Social Networks (Waxman, Hazon and Kraus, 2021)](https://arxiv.org/abs/2105.09852) - ליחיד.
+* [Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד. שימו לב: בקישור יש תקציר בלבד - המאמר המלא (7 עמודים) יישלח בדואל.
+* ~[Explainable Shapley-Based Allocation (Nizri, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Explainable_allocation_SA.pdf) - ליחיד.~ 
+תפוס
+* [Beyond majority: Label ranking ensembles based on voting rules (Werbin-Ofir, Dery, Shmueli, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419304221) - ליחיד.
+* [BoostLR: a boosting-based learning ensemble for label ranking tasks (Dery and Shmueli, 2020)](https://ieeexplore.ieee.org/abstract/document/9205798/) - ליחיד.
+* [Reaching consensus under a deadline (Dery et al, 2021)](https://link.springer.com/article/10.1007/s10458-020-09490-7) - ליחיד.
+* [Star-Tracker Algorithm for Smartphones and Commercial Micro-Drones (Marbel,  Boaz Ben-Moshe, Yozevitch, 2020)](https://www.mdpi.com/1424-8220/20/4/1106) - ליחיד (אלגוריתמים 1,2) או לזוג (גם אלגוריתמים 3,4).
+* [Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.
+* [A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד.
+* [On the realization space of the cube  (Adiprasito, Kalmanovich, Nevo, 2022)](https://arxiv.org/abs/1912.09554) - ליחיד או לזוג.
 
 
 ## אלגוריתמי חלוקת חפצים וכסף
@@ -144,25 +159,6 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 מאמרים נוספים - רובם מתאימים לזוג - ניתן למצוא כאן:
 
 * [כנס לגיאומטריה חישובית - SOCG](https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16186).
-
-
-
-## אלגוריתמים מאוניברסיטת אריאל
-
-* [Strategic Voting in the Context of Negotiating Teams (Schmerler and Hazon, 2021)](https://arxiv.org/abs/2107.14097) - ליחיד.
-* [Manipulation of k-Coalitional Games on Social Networks (Waxman, Hazon and Kraus, 2021)](https://arxiv.org/abs/2105.09852) - ליחיד.
-* [Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד. שימו לב: בקישור יש תקציר בלבד - המאמר המלא (7 עמודים) יישלח בדואל.
-* ~[Explainable Shapley-Based Allocation (Nizri, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Explainable_allocation_SA.pdf) - ליחיד.~ 
-תפוס
-* [Beyond majority: Label ranking ensembles based on voting rules (Werbin-Ofir, Dery, Shmueli, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419304221) - ליחיד.
-* [BoostLR: a boosting-based learning ensemble for label ranking tasks (Dery and Shmueli, 2020)](https://ieeexplore.ieee.org/abstract/document/9205798/) - ליחיד.
-* [Reaching consensus under a deadline (Dery et al, 2021)](https://link.springer.com/article/10.1007/s10458-020-09490-7) - ליחיד.
-* [Star-Tracker Algorithm for Smartphones and Commercial Micro-Drones (Marbel,  Boaz Ben-Moshe, Yozevitch, 2020)](https://www.mdpi.com/1424-8220/20/4/1106) - ליחיד (אלגוריתמים 1,2) או לזוג (גם אלגוריתמים 3,4).
-* [Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.
-* [A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד.
-
-
-
 
 
 ## נושאים נוספים
