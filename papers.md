@@ -49,6 +49,7 @@
 * [Approximately Fair Allocations of Indivisible Goods (Lipton et al., 2004)](https://dl.acm.org/doi/pdf/10.1145/988772.988792) - ליחיד (משפטים 2.1, 3).
 * ~[Fair Division under Ordinal Preferences (Bouveret et al, 2010)](https://ebooks.iospress.nl/doi/10.3233/978-1-60750-606-5-387) - ליחיד.~
 תפוס
+* [On Fair Division under Heterogeneous Matroid Constraints (Dror et al, 2021)](https://arxiv.org/abs/2010.07280) - ליחיד (אלגוריתמים 2, 3) או לזוג (גם אלגוריתמים 4, 6).
 * [Worst-Case Allocations (Markakis and Psomas, 2011)](https://link.springer.com/chapter/10.1007/978-3-642-25510-6_24) - ליחיד (אלגוריתם 1).
 * [Proportional division of indivisible items (Brams et al, 2014)](https://mpra.ub.uni-muenchen.de/56587/) - ליחיד.
 * ~[Two-Person Fair Division of Indivisible Items (Brams et al, 2014)](https://www.ams.org/journals/notices/201402/rnoti-p130.pdf/) - ליחיד.~
@@ -62,8 +63,7 @@
 * [Beating 1/2 for EFX and GMMS (Amanatidis et al, 2020)](https://doi.org/10.1016%2Fj.tcs.2020.07.006) - ליחיד.
 * [The Virtue of Donating Items (Caragiannis et al, 2019)](https://arxiv.org/abs/1902.04319) - ליחיד.
 * [Approximation Algorithms for Maximin Fair Division (Barman and Krishnamurthy, 2020)](https://dl.acm.org/doi/abs/10.1145/3381525) - ליחיד (אלגוריתמים 1, 2, 5). 
-* ~[Fair Division Under Cardinality Constraints (Barman and Biswas, 2018)](https://arxiv.org/abs/1804.09521) - ליחיד (אלגוריתמים 1, 2).~
-תפוס
+* [Fair Division Under Cardinality Constraints (Barman and Biswas, 2018)](https://arxiv.org/abs/1804.09521) - ליחיד (אלגוריתמים 1, 2).
 * [Equitable Allocations of Indivisible Goods (Freeman et al, 2019)](https://arxiv.org/abs/1905.10656) - ליחיד (משפטים 2, 3).
 * [Almost Envy-Freeness with General Valuations (Plaut and Roughgarden, 2020)](https://dl.acm.org/doi/abs/10.1145/3140756).
 SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
