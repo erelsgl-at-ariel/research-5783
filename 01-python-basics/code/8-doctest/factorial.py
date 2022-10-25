@@ -51,11 +51,11 @@ def factorial(n):
 
 if __name__ == "__main__":
     import doctest
-    print(doctest.testmod())
+    doctest.testmod()
 
     # To see passed tests too:
     # doctest.testmod(verbose=True)    
 
     # To run tests from a file:
-    print(doctest.testfile("my_doctest.txt"))
+    # print(doctest.testfile("my_doctest.txt"))
 
