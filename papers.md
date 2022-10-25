@@ -18,7 +18,8 @@
 
 * [Maximum priority matching (Turner, 2015)](https://arxiv.org/abs/1512.08555) -  ליחיד. אפשר לשלב עם [Faster Maximium Priority Matchings in Bipartite Graphs](https://arxiv.org/abs/1512.09349) לזוג.
 * [Cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג (או ליחיד בלי פרק 5)
-* [Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג.
+* [Rank-maximal matchings (Irving et al, 2006)](https://dl.acm.org/doi/abs/10.1145/1198513.1198520) - לזוג.
+* ~[Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג - תפוס (בנימין ודניאל)~
 * [Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - (אלגוריתם 1) ליחיד
 * [Fair integral network flow (Frank and Murota, 2022)](https://arxiv.org/abs/1907.02673) - לזוג.
 * [Dividing a Graphical Cake (Bei and Suksompong, 2019)](https://arxiv.org/pdf/1910.14129.pdf#subsection.4.1) - ליחיד (פרק 4).
@@ -50,6 +51,7 @@
 * ~[Fair Division under Ordinal Preferences (Bouveret et al, 2010)](https://ebooks.iospress.nl/doi/10.3233/978-1-60750-606-5-387) - ליחיד.~
 תפוס
 * [On Fair Division under Heterogeneous Matroid Constraints (Dror et al, 2021)](https://arxiv.org/abs/2010.07280) - ליחיד (אלגוריתמים 2, 3) או לזוג (גם אלגוריתמים 4, 6).
+* [Efficient nearly-fair division with capacity constraints (Shoshan et al, 2022)](https://arxiv.org/abs/2205.07779) - ליחיד	.
 * [Worst-Case Allocations (Markakis and Psomas, 2011)](https://link.springer.com/chapter/10.1007/978-3-642-25510-6_24) - ליחיד (אלגוריתם 1).
 * [Proportional division of indivisible items (Brams et al, 2014)](https://mpra.ub.uni-muenchen.de/56587/) - ליחיד.
 * ~[Two-Person Fair Division of Indivisible Items (Brams et al, 2014)](https://www.ams.org/journals/notices/201402/rnoti-p130.pdf/) - ליחיד.~
