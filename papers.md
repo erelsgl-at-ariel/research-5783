@@ -20,7 +20,7 @@
 * [Cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג (או ליחיד בלי פרק 5)
 * ~[Rank-maximal matchings (Irving et al, 2006)](https://dl.acm.org/doi/abs/10.1145/1198513.1198520) - לזוג~ - תפוס.
 * ~[Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג - תפוס (בנימין ודניאל)~
-* [Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - (אלגוריתם 1) ליחיד
+* ~[Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - ליחיד~ - תפוס (ערן)
 * [Fair integral network flow (Frank and Murota, 2022)](https://arxiv.org/abs/1907.02673) - לזוג.
 * [Dividing a Graphical Cake (Bei and Suksompong, 2019)](https://arxiv.org/pdf/1910.14129.pdf#subsection.4.1) - ליחיד (פרק 4).
 * [Fractional matchings (Bourjolly and Pulleyblank, 1989)](https://www.sciencedirect.com/science/article/pii/0166218X9290273D) - לזוג (או ליחיד בלי פרק 5).
