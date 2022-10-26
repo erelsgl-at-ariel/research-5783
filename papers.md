@@ -90,7 +90,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 
 * [Strategic Voting in the Context of Negotiating Teams (Schmerler and Hazon, 2021)](https://arxiv.org/abs/2107.14097) - ליחיד.
 * [Manipulation of k-Coalitional Games on Social Networks (Waxman, Hazon and Kraus, 2021)](https://arxiv.org/abs/2105.09852) - ליחיד.
-* [Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד. שימו לב: בקישור יש תקציר בלבד - המאמר המלא (7 עמודים) יישלח בדואל.
+* ~[Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד~ - תפוס (ויקטור).
 * ~[Explainable Shapley-Based Allocation (Nizri, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Explainable_allocation_SA.pdf) - ליחיד.~ 
 תפוס
 * [Beyond majority: Label ranking ensembles based on voting rules (Werbin-Ofir, Dery, Shmueli, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419304221) - ליחיד.
