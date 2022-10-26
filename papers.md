@@ -25,6 +25,7 @@
 * [Dividing a Graphical Cake (Bei and Suksompong, 2019)](https://arxiv.org/pdf/1910.14129.pdf#subsection.4.1) - ליחיד (פרק 4).
 * [Fractional matchings (Bourjolly and Pulleyblank, 1989)](https://www.sciencedirect.com/science/article/pii/0166218X9290273D) - לזוג (או ליחיד בלי פרק 5).
 
+
 ## אלגוריתמי תזמון תהליכים וחלוקת מספרים
 
 האלגוריתמים יכולים להשתלב בספרייה 
@@ -42,7 +43,15 @@
 * [Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג.
 
 
-## אלגוריתמי חלוקה הוגנת של חפצים
+##  חלוקה הוגנת של מקומות בקורסים בין סטודנטים
+
+* [Course Allocation by Proxy Auction (Kominers et al, 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17572-5_49) - ליחיד.
+* [Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial  Allocation (2017)](https://pubsonline.informs.org/doi/10.1287/opre.2016.1544) - ליחיד (אלגוריתם 1) או לזוג (גם 2).
+* [Finding Approximate Competitive Equilibria: Efficient and Fair Course Allocation (2010)](https://dl.acm.org/doi/abs/10.5555/1838206.1838323) - ליחיד .
+* אפשר למצוא עוד מאמרים בנושא כאן: [https://en.wikipedia.org/wiki/Course_allocation](Course allocation).
+
+
+##  חלוקה הוגנת של חפצים
 
 האלגוריתמים יכולים להשתלב בספרייה 
 [fairpy](https://github.com/erelsgl/fairpy).
