@@ -54,7 +54,7 @@ if __name__ == "__main__":
     doctest.testmod()
 
     # To see passed tests too:
-    # doctest.testmod(verbose=True)    
+    # doctest.testmod(verbose=True)
 
     # To run tests from a file:
     # print(doctest.testfile("my_doctest.txt"))

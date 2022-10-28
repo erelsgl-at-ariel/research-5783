@@ -20,10 +20,11 @@
 * [Cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג (או ליחיד בלי פרק 5)
 * ~[Rank-maximal matchings (Irving et al, 2006)](https://dl.acm.org/doi/abs/10.1145/1198513.1198520) - לזוג~ - תפוס.
 * ~[Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג - תפוס (בנימין ודניאל)~
-* [Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - (אלגוריתם 1) ליחיד
+* ~[Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - ליחיד~ - תפוס (ערן)
 * [Fair integral network flow (Frank and Murota, 2022)](https://arxiv.org/abs/1907.02673) - לזוג.
 * [Dividing a Graphical Cake (Bei and Suksompong, 2019)](https://arxiv.org/pdf/1910.14129.pdf#subsection.4.1) - ליחיד (פרק 4).
 * [Fractional matchings (Bourjolly and Pulleyblank, 1989)](https://www.sciencedirect.com/science/article/pii/0166218X9290273D) - לזוג (או ליחיד בלי פרק 5).
+
 
 ## אלגוריתמי תזמון תהליכים וחלוקת מספרים
 
@@ -42,7 +43,15 @@
 * [Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג.
 
 
-## אלגוריתמי חלוקה הוגנת של חפצים
+##  חלוקה הוגנת של מקומות בקורסים בין סטודנטים
+
+* [Course Allocation by Proxy Auction (Kominers et al, 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17572-5_49) - ליחיד.
+* [Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial  Allocation (2017)](https://pubsonline.informs.org/doi/10.1287/opre.2016.1544) - ליחיד (אלגוריתם 1) או לזוג (גם 2).
+* [Finding Approximate Competitive Equilibria: Efficient and Fair Course Allocation (2010)](https://dl.acm.org/doi/abs/10.5555/1838206.1838323) - ליחיד .
+* אפשר למצוא עוד מאמרים בנושא כאן: [https://en.wikipedia.org/wiki/Course_allocation](Course allocation).
+
+
+##  חלוקה הוגנת של חפצים
 
 האלגוריתמים יכולים להשתלב בספרייה 
 [fairpy](https://github.com/erelsgl/fairpy).
@@ -90,7 +99,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 
 * [Strategic Voting in the Context of Negotiating Teams (Schmerler and Hazon, 2021)](https://arxiv.org/abs/2107.14097) - ליחיד.
 * [Manipulation of k-Coalitional Games on Social Networks (Waxman, Hazon and Kraus, 2021)](https://arxiv.org/abs/2105.09852) - ליחיד.
-* [Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד. שימו לב: בקישור יש תקציר בלבד - המאמר המלא (7 עמודים) יישלח בדואל.
+* ~[Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד~ - תפוס (ויקטור).
 * ~[Explainable Shapley-Based Allocation (Nizri, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Explainable_allocation_SA.pdf) - ליחיד.~ 
 תפוס
 * [Beyond majority: Label ranking ensembles based on voting rules (Werbin-Ofir, Dery, Shmueli, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419304221) - ליחיד.
