@@ -40,7 +40,7 @@
 תפוס
 * [Search strategies for number partitioning (Moffitt, 2013)](https://www.ijcai.org/Proceedings/13/Papers/099.pdf) - ליחיד או לזוג.
 * [Optimally Scheduling Small Numbers of Identical Parallel Machines (Korf and Schreiber, 2013)](https://ojs.aaai.org/index.php/ICAPS/article/view/13544) - ליחיד או לזוג.
-* [Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג.
+* ~[Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג~ - תפוס (איתן ושילה).
 
 
 ##  חלוקה הוגנת של מקומות בקורסים בין סטודנטים
@@ -65,7 +65,7 @@
 * [Proportional division of indivisible items (Brams et al, 2014)](https://mpra.ub.uni-muenchen.de/56587/) - ליחיד.
 * ~[Two-Person Fair Division of Indivisible Items (Brams et al, 2014)](https://www.ams.org/journals/notices/201402/rnoti-p130.pdf/) - ליחיד.~
 תפוס
-* [Proportional Borda allocations (Darmann and Klamler, 2016)](https://link.springer.com/article/10.1007/s00355-016-0982-z) - ליחיד.
+* ~[Proportional Borda allocations (Darmann and Klamler, 2016)](https://link.springer.com/article/10.1007/s00355-016-0982-z) - ליחיד~ - תפוס (שלמה).
 * [Chore division on a graph (Bouveret et al, 2019)](https://link.springer.com/article/10.1007/s10458-019-09415-z) - ליחיד.
 * [The Unreasonable Fairness of Maximum Nash Welfare (Caragiannis et al, 2019)](http://eprints.gla.ac.uk/123283/1/123283.pdf) - ליחיד.
 * ~[Fairly Allocating Many Goods with Few Queries (Oh et al, 2019)](https://doi.org/10.1609%2Faaai.v33i01.33012141) - ליחיד.~
@@ -107,7 +107,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [Reaching consensus under a deadline (Dery et al, 2021)](https://link.springer.com/article/10.1007/s10458-020-09490-7) - ליחיד.
 * [Star-Tracker Algorithm for Smartphones and Commercial Micro-Drones (Marbel,  Boaz Ben-Moshe, Yozevitch, 2020)](https://www.mdpi.com/1424-8220/20/4/1106) - ליחיד (אלגוריתמים 1,2) או לזוג (גם אלגוריתמים 3,4).
 * [Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.
-* [A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד.
+* ~[A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד~ - תפוס (רז).
 * [On the realization space of the cube  (Adiprasito, Kalmanovich, Nevo, 2022)](https://arxiv.org/abs/1912.09554) - ליחיד או לזוג.
 
 
