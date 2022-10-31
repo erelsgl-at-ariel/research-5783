@@ -19,10 +19,10 @@
 * [Maximum priority matching (Turner, 2015)](https://arxiv.org/abs/1512.08555) -  ליחיד. אפשר לשלב עם [Faster Maximium Priority Matchings in Bipartite Graphs](https://arxiv.org/abs/1512.09349) לזוג.
 * [Cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג (או ליחיד בלי פרק 5)
 * ~[Rank-maximal matchings (Irving et al, 2006)](https://dl.acm.org/doi/abs/10.1145/1198513.1198520) - לזוג~ - תפוס.
-* ~[Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג - תפוס (בנימין ודניאל)~
+* ~[Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג - תפוס (בנימין סאלדמן ודניאל גילקרוב)~
 * ~[Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - ליחיד~ - תפוס (ערן)
 * [Fair integral network flow (Frank and Murota, 2022)](https://arxiv.org/abs/1907.02673) - לזוג.
-* [Dividing a Graphical Cake (Bei and Suksompong, 2019)](https://arxiv.org/pdf/1910.14129.pdf#subsection.4.1) - ליחיד (פרק 4).
+* ~[Dividing a Graphical Cake (Bei and Suksompong, 2019)](https://arxiv.org/pdf/1910.14129.pdf#subsection.4.1) - ליחיד (פרק 4).~ - תפוס (ערן).
 * [Fractional matchings (Bourjolly and Pulleyblank, 1989)](https://www.sciencedirect.com/science/article/pii/0166218X9290273D) - לזוג (או ליחיד בלי פרק 5).
 
 
@@ -38,7 +38,7 @@
 תפוס
 * ~[Improved bin completion (Schreiber and Korf, 2013)](https://www.ijcai.org/Proceedings/13/Papers/103.pdf) - לזוג.~
 תפוס
-* [Search strategies for number partitioning (Moffitt, 2013)](https://www.ijcai.org/Proceedings/13/Papers/099.pdf) - ליחיד או לזוג.
+* ~[Search strategies for number partitioning (Moffitt, 2013)](https://www.ijcai.org/Proceedings/13/Papers/099.pdf) - ליחיד או לזוג.~ - תפוס (ניר)
 * [Optimally Scheduling Small Numbers of Identical Parallel Machines (Korf and Schreiber, 2013)](https://ojs.aaai.org/index.php/ICAPS/article/view/13544) - ליחיד או לזוג.
 * ~[Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג~ - תפוס (איתן ושילה).
 
@@ -121,7 +121,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [One Dollar Each Eliminates Envy (Brustle et al, 2020)](https://doi.org/10.1145/3391403.3399447) - ליחיד (אלגוריתם 1 + חישוב הסובסידיה).
 * [Computing envy-freeable allocations with limited subsidies (Caragiannis and Ioannidis, 2021)](https://arxiv.org/abs/2002.02789) - ליחיד (פרק 3). 
 * [Envy-freeness and Equitability with Monetary Transfers (Aziz, 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16645) - לזוג (אלגוריתמים 1, 2).
-* [Fair rent division on a budget (Procaccia, Velez, Yu, 2018)](https://ojs.aaai.org/index.php/AAAI/article/view/11465) - לזוג.
+* ~[Fair rent division on a budget (Procaccia, Velez, Yu, 2018)](https://ojs.aaai.org/index.php/AAAI/article/view/11465) - לזוג.~ - תפוס (אסיף רוט ודניאל סלע)
 
 
 ## עוד אלגוריתמים
