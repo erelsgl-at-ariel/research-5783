@@ -17,7 +17,7 @@
 [networkx](https://networkx.org/).
 
 * [Maximum priority matching (Turner, 2015)](https://arxiv.org/abs/1512.08555) -  ליחיד. אפשר לשלב עם [Faster Maximium Priority Matchings in Bipartite Graphs](https://arxiv.org/abs/1512.09349) לזוג.
-* [Cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג (או ליחיד בלי פרק 5)
+* ~[Maximum weight cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג~ - תפוס (רעות וטל).
 * ~[Rank-maximal matchings (Irving et al, 2006)](https://dl.acm.org/doi/abs/10.1145/1198513.1198520) - לזוג~ - תפוס.
 * ~[Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג - תפוס (בנימין סאלדמן ודניאל גילקרוב)~
 * ~[Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - ליחיד~ - תפוס (ערן)
@@ -45,7 +45,7 @@
 
 ##  חלוקה הוגנת של מקומות בקורסים בין סטודנטים
 
-* [Course Allocation by Proxy Auction (Kominers et al, 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17572-5_49) - ליחיד.
+* ~[Course Allocation by Proxy Auction (Kominers et al, 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17572-5_49) - ליחיד~ - תפוס (אביהו).
 * [Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial  Allocation (2017)](https://pubsonline.informs.org/doi/10.1287/opre.2016.1544) - ליחיד (אלגוריתם 1) או לזוג (גם 2).
 * [Finding Approximate Competitive Equilibria: Efficient and Fair Course Allocation (2010)](https://dl.acm.org/doi/abs/10.5555/1838206.1838323) - ליחיד .
 * אפשר למצוא עוד מאמרים בנושא כאן: [https://en.wikipedia.org/wiki/Course_allocation](Course allocation).
@@ -83,7 +83,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [Fair Division of Goods in the Shadow of Market Values (Dall'Aglio, 2021)](https://arxiv.org/abs/1910.01615) - ליחיד.
 * [The Combinatorial Assignment Problem (Budish, 2011)](https://doi.org/10.1086%2F664613) - לזוג.
 * [Minimizing envy and maximizing average Nash social welfare (Nguyen and Rothe, 2014)](https://doi.org/10.1137%2F0117039) - לזוג.
-* [Two-player fair division of indivisible items (Kilgour and Vetschera, 2018)](https://www.sciencedirect.com/science/article/pii/S0377221718304764) - לזוג.
+* ~[Two-player fair division of indivisible items (Kilgour and Vetschera, 2018)](https://www.sciencedirect.com/science/article/pii/S0377221718304764) - לזוג~ - תפוס (איתי חסידי ועמיחי ביתן).
 * [Finding Fair and Efficient Allocations (Barman et al, 2018)](https://dl.acm.org/doi/abs/10.1145/3219166.3219176) - לזוג.
 * [Fair allocation of combinations of indivisible goods and chores (Aziz et al, 2018)](https://arxiv.org/abs/1807.10684) - לזוג (אלגוריתמים 1, 2, 3).
 * [An improved approximation algorithm for maximin shares (Garg and Taki, 2020)](https://www.sciencedirect.com/science/article/pii/S0004370221000989) - לזוג.
@@ -120,7 +120,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [Fair Division with Subsidy (Halpern and Shah, 2019)](https://link.springer.com/chapter/10.1007/978-3-030-30473-7_25) - לזוג (Proposition 1, Theorem 2, Theorem 5, Proposition 4, Theorem 6, Appendix B).
 * [One Dollar Each Eliminates Envy (Brustle et al, 2020)](https://doi.org/10.1145/3391403.3399447) - ליחיד (אלגוריתם 1 + חישוב הסובסידיה).
 * [Computing envy-freeable allocations with limited subsidies (Caragiannis and Ioannidis, 2021)](https://arxiv.org/abs/2002.02789) - ליחיד (פרק 3). 
-* [Envy-freeness and Equitability with Monetary Transfers (Aziz, 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16645) - לזוג (אלגוריתמים 1, 2).
+* ~[Envy-freeness and Equitability with Monetary Transfers (Aziz, 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16645) - לזוג (אלגוריתמים 1, 2)~ -  תפוס (נעמיה ואיתן).
 * ~[Fair rent division on a budget (Procaccia, Velez, Yu, 2018)](https://ojs.aaai.org/index.php/AAAI/article/view/11465) - לזוג.~ - תפוס (אסיף רוט ודניאל סלע)
 
 
