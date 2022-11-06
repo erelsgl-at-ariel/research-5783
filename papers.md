@@ -39,14 +39,14 @@
 * ~[Improved bin completion (Schreiber and Korf, 2013)](https://www.ijcai.org/Proceedings/13/Papers/103.pdf) - לזוג.~
 תפוס
 * ~[Search strategies for number partitioning (Moffitt, 2013)](https://www.ijcai.org/Proceedings/13/Papers/099.pdf) - ליחיד או לזוג.~ - תפוס (ניר)
-* [Optimally Scheduling Small Numbers of Identical Parallel Machines (Korf and Schreiber, 2013)](https://ojs.aaai.org/index.php/ICAPS/article/view/13544) - ליחיד או לזוג.
+* ~[Optimally Scheduling Small Numbers of Identical Parallel Machines (Korf and Schreiber, 2013)](https://ojs.aaai.org/index.php/ICAPS/article/view/13544) - ליחיד או לזוג.~ - תפוס (יואל).
 * ~[Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג~ - תפוס (איתן ושילה).
 
 
 ##  חלוקה הוגנת של מקומות בקורסים בין סטודנטים
 
 * ~[Course Allocation by Proxy Auction (Kominers et al, 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17572-5_49) - ליחיד~ - תפוס (אביהו).
-* [Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial  Allocation (2017)](https://pubsonline.informs.org/doi/10.1287/opre.2016.1544) - ליחיד (אלגוריתם 1) או לזוג (גם 2).
+* ~[Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial  Allocation (2017)](https://pubsonline.informs.org/doi/10.1287/opre.2016.1544) - ליחיד (אלגוריתם 1) או לזוג (גם 2).~ - תפוס (אורי).
 * ~[Finding Approximate Competitive Equilibria: Efficient and Fair Course Allocation (2010)](https://dl.acm.org/doi/abs/10.5555/1838206.1838323) - ליחיד~ - תפוס (תהל).
 * אפשר למצוא עוד מאמרים בנושא כאן: [https://en.wikipedia.org/wiki/Course_allocation](Course allocation).
 
@@ -98,6 +98,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 
 ## אלגוריתמים מאוניברסיטת אריאל
 
+* [On the realization space of the cube  (Adiprasito, Kalmanovich, Nevo, 2022)](https://arxiv.org/abs/1912.09554) - ליחיד או לזוג.
 * [Strategic Voting in the Context of Negotiating Teams (Schmerler and Hazon, 2021)](https://arxiv.org/abs/2107.14097) - ליחיד.
 * [Manipulation of k-Coalitional Games on Social Networks (Waxman, Hazon and Kraus, 2021)](https://arxiv.org/abs/2105.09852) - ליחיד.
 * ~[Social Aware Assignment of Passengers in Ridesharing (Levinger, Hazon, Azaria, 2022)](http://azariaa.com/Content/Publications/Social_Assignment_SA.pdf) - ליחיד~ - תפוס (ויקטור).
@@ -109,7 +110,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [Star-Tracker Algorithm for Smartphones and Commercial Micro-Drones (Marbel,  Boaz Ben-Moshe, Yozevitch, 2020)](https://www.mdpi.com/1424-8220/20/4/1106) - ליחיד (אלגוריתמים 1,2) או לזוג (גם אלגוריתמים 3,4).
 * [Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.
 * ~[A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד~ - תפוס (רז).
-* [On the realization space of the cube  (Adiprasito, Kalmanovich, Nevo, 2022)](https://arxiv.org/abs/1912.09554) - ליחיד או לזוג.
+* ~[HyperRes: Efficient Hypernetwork-Based Continuous Image Restoration (Aharon, Ben-Artzi, 2022)](https://arxiv.org/abs/2206.05970) - לזוג~ - תפוס (אסף ואריאל).
 
 
 ## אלגוריתמי חלוקת חפצים וכסף
