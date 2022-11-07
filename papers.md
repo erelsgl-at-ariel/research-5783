@@ -17,7 +17,7 @@
 [networkx](https://networkx.org/).
 
 * [Maximum priority matching (Turner, 2015)](https://arxiv.org/abs/1512.08555) -  ליחיד. אפשר לשלב עם [Faster Maximium Priority Matchings in Bipartite Graphs](https://arxiv.org/abs/1512.09349) לזוג.
-* ~[Maximum weight cycle packing (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג~ - תפוס (רעות וטל).
+* ~[Maximum weight cycle packing for kidney exchange (Biro, Manlove and Rizzi, 2009)](https://www.worldscientific.com/doi/abs/10.1142/S1793830909000373) - לזוג~ - תפוס (רעות וטל).
 * ~[Rank-maximal matchings (Irving et al, 2006)](https://dl.acm.org/doi/abs/10.1145/1198513.1198520) - לזוג~ - תפוס.
 * ~[Envy-free matching (Aigner-Horev and Segal-Halevi, 2022)](https://www.sciencedirect.com/science/article/pii/S00200255210118) - לזוג - תפוס (בנימין סאלדמן ודניאל גילקרוב)~
 * ~[Fair division of a graph (Bouveret et al, 2017)](https://arxiv.org/abs/1705.10239) - ליחיד~ - תפוס (ערן לוי)
@@ -84,9 +84,8 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [The Combinatorial Assignment Problem (Budish, 2011)](https://doi.org/10.1086%2F664613) - לזוג.
 * [Minimizing envy and maximizing average Nash social welfare (Nguyen and Rothe, 2014)](https://doi.org/10.1137%2F0117039) - לזוג.
 * ~[Two-player fair division of indivisible items (Kilgour and Vetschera, 2018)](https://www.sciencedirect.com/science/article/pii/S0377221718304764) - לזוג~ - תפוס (איתי חסידי ועמיחי ביתן).
-* ~[Finding Fair and Efficient Allocations (Barman et al, 2018)](https://dl.acm.org/doi/abs/10.1145/3219166.3219176) - לזוג.~
-- תפוס (יאיר ורבקה).
-* [Fair allocation of combinations of indivisible goods and chores (Aziz et al, 2018)](https://arxiv.org/abs/1807.10684) - לזוג (אלגוריתמים 1, 2, 3).
+* [Finding Fair and Efficient Allocations (Barman et al, 2018)](https://dl.acm.org/doi/abs/10.1145/3219166.3219176) - לזוג.
+* ~[Fair allocation of combinations of indivisible goods and chores (Aziz et al, 2018)](https://arxiv.org/abs/1807.10684) - לזוג (אלגוריתמים 1, 2, 3).~ - תפוס (יאיר ורבקה).
 * [An improved approximation algorithm for maximin shares (Garg and Taki, 2020)](https://www.sciencedirect.com/science/article/pii/S0004370221000989) - לזוג.
 * [Almost Envy-Free Allocations with Connected Bundles (Bilo et al, 2018)](https://arxiv.org/abs/1808.09406) - לזוג.
 * [EFX Exists for Three Agents (Chaudhury et al, 2020))](https://arxiv.org/abs/2002.05119) - לזוג.
