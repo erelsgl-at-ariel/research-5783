@@ -51,6 +51,14 @@
 * אפשר למצוא עוד מאמרים בנושא כאן: [https://en.wikipedia.org/wiki/Course_allocation](Course allocation).
 
 
+##  סיווג והצפנה
+
+* [GRAIN: Granular multi-label encrypted traffic classification using classifier chain (Zaki et al, 2022)](https://www.sciencedirect.com/science/article/abs/pii/S1389128622002213) - לזוג.
+* [A Few Shots Traffic Classification with mini-FlowPic Augmentations (Horowicz, Shapira, Shavitt, 2022)](https://dl.acm.org/doi/abs/10.1145/3517745.3561436) - ליחיד.
+* [Semi-Supervised Encrypted Traffic Classification With Deep Convolutional Generative Adversarial Networks (Ilyasu and Deng, 2019)](https://ieeexplore.ieee.org/abstract/document/8941140/) - ליחיד.
+
+
+
 ##  חלוקה הוגנת של חפצים
 
 האלגוריתמים יכולים להשתלב בספרייה 
@@ -110,6 +118,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.
 * ~[A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד~ - תפוס (רז).
 * ~[HyperRes: Efficient Hypernetwork-Based Continuous Image Restoration (Aharon, Ben-Artzi, 2022)](https://arxiv.org/abs/2206.05970) - לזוג~ - תפוס (אסף ואריאל).
+* 
 
 
 ## אלגוריתמי חלוקת חפצים וכסף
