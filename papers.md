@@ -46,7 +46,7 @@
 ##  חלוקה הוגנת של מקומות בקורסים בין סטודנטים
 
 * ~[Course Allocation by Proxy Auction (Kominers et al, 2010)](https://link.springer.com/chapter/10.1007/978-3-642-17572-5_49) - ליחיד~ - תפוס (אביהו).
-* ~[Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial  Allocation (2017)](https://pubsonline.informs.org/doi/10.1287/opre.2016.1544) - ליחיד (אלגוריתם 1) או לזוג (גם 2).~ - תפוס (אורי).
+* [Course Match: A Large-Scale Implementation of Approximate Competitive Equilibrium from Equal Incomes for Combinatorial  Allocation (2017)](https://pubsonline.informs.org/doi/10.1287/opre.2016.1544) - לזוג - תפוס (אורי ואביב).
 * ~[Finding Approximate Competitive Equilibria: Efficient and Fair Course Allocation (2010)](https://dl.acm.org/doi/abs/10.5555/1838206.1838323) - ליחיד~ - תפוס (תהל).
 * אפשר למצוא עוד מאמרים בנושא כאן: [https://en.wikipedia.org/wiki/Course_allocation](Course allocation).
 
@@ -69,7 +69,7 @@
 תפוס
 * [On Fair Division under Heterogeneous Matroid Constraints (Dror et al, 2021)](https://arxiv.org/abs/2010.07280) - ליחיד (אלגוריתמים 2, 3) או לזוג (גם אלגוריתמים 4, 6).
 * [Efficient nearly-fair division with capacity constraints (Shoshan et al, 2022)](https://arxiv.org/abs/2205.07779) - ליחיד	.
-* ~[Worst-Case Allocations (Markakis and Psomas, 2011)](https://link.springer.com/chapter/10.1007/978-3-642-25510-6_24) - ליחיד (אלגוריתם 1).~ - תפוס (אביב).
+* [Worst-Case Allocations (Markakis and Psomas, 2011)](https://link.springer.com/chapter/10.1007/978-3-642-25510-6_24) - ליחיד (אלגוריתם 1).
 * [Proportional division of indivisible items (Brams et al, 2014)](https://mpra.ub.uni-muenchen.de/56587/) - ליחיד.
 * ~[Two-Person Fair Division of Indivisible Items (Brams et al, 2014)](https://www.ams.org/journals/notices/201402/rnoti-p130.pdf/) - ליחיד.~
 תפוס
