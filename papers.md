@@ -127,7 +127,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 [fairpy](https://github.com/erelsgl/fairpy).
 
 * ~[Bidding for envy-freeness (Haake Raith and Su, 2002)](https://doi.org/10.1007%2Fs003550100149) - ליחיד או לזוג.~ - תפוס (ברק+).
-* [Fair Division with Subsidy (Halpern and Shah, 2019)](https://link.springer.com/chapter/10.1007/978-3-030-30473-7_25) - לזוג (Proposition 1, Theorem 2, Theorem 5, Proposition 4, Theorem 6, Appendix B).
+* ~[Fair Division with Subsidy (Halpern and Shah, 2019)](https://link.springer.com/chapter/10.1007/978-3-030-30473-7_25) - לזוג (Proposition 1, Theorem 2, Theorem 5, Proposition 4, Theorem 6, Appendix B)~ - תפוס (טל)
 * ~[One Dollar Each Eliminates Envy (Brustle et al, 2020)](https://doi.org/10.1145/3391403.3399447) - ליחיד (אלגוריתם 1 + חישוב הסובסידיה).~ - תפוס (איאד)
 * [Computing envy-freeable allocations with limited subsidies (Caragiannis and Ioannidis, 2021)](https://arxiv.org/abs/2002.02789) - ליחיד (פרק 3). 
 * ~[Envy-freeness and Equitability with Monetary Transfers (Aziz, 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16645) - לזוג (אלגוריתמים 1, 2)~ -  תפוס (נעמיה ואיתן).

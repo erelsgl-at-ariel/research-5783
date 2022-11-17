@@ -7,7 +7,7 @@ Since: 2022-03
 
 from typing import Dict
 
-def roundrobin(numbins: int, items: Dict[str, float]):
+def roundrobin(numbins: int, items):
     """
     Partition the given items using the round-robin algorithm.
 
@@ -37,7 +37,7 @@ def roundrobin(numbins: int, items: Dict[str, float]):
 
 
 
-def greedy(numbins: int, items: Dict[str, float]):
+def greedy(numbins: int, items):
     """
     Partition the given items using the greedy number partitioning algorithm.
 

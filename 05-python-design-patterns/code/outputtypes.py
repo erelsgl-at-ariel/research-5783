@@ -30,13 +30,18 @@ class Sums(OutputType):
 
     # Output the sums of all the bins (but not the bins contents).
     @classmethod
+    def extract_output_from_bins(cls, bins: Bins) -> List:
+        return cls.extract_output_from_sums(bins.sums)
+
+    @classmethod
     def extract_output_from_sums(cls, sums: List[float]) -> List:
         return sums
 
-    # Output the sums of all the bins (but not the bins contents).
+
+class SortedSums(Sums):
     @classmethod
-    def extract_output_from_bins(cls, bins: Bins) -> List:
-        return cls.extract_output_from_sums(bins.sums)
+    def extract_output_from_sums(cls, sums: List[float]) -> List:
+        return sorted(sums)
 
 
 class LargestSum(Sums):
@@ -51,6 +56,12 @@ class SmallestSum(Sums):
     @classmethod
     def extract_output_from_sums(cls, sums: List[float]) -> List:
         return min(sums)
+
+class Difference(Sums):
+    # Output the difference between the largest and smallest sum.
+    @classmethod
+    def extract_output_from_sums(cls, sums: List[float]) -> List:
+        return max(sums) - min(sums)
 
 
 class Partition(OutputType):
