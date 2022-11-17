@@ -8,7 +8,7 @@ Since: 2022-03
 from typing import Callable, Any
 
 
-def partition(algorithm: Callable, numbins: int, items: list):
+def partition(algorithm: Callable, numbins: int, items: Any):
     """
     >>> partition(algorithm=roundrobin, numbins=2, items=[1,2,3,3,5,9,9])
     [[9, 5, 3, 1], [9, 3, 2]]

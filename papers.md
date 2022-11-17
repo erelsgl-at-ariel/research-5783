@@ -88,7 +88,7 @@
 SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * ~[A note on the undercut procedure (Aziz 2015)](https://link.springer.com/article/10.1007/s00355-015-0877-4) - ליחיד.~
 תפוס
-* ~[Fair Division of Goods in the Shadow of Market Values (Dall'Aglio, 2021)](https://arxiv.org/abs/1910.01615) - ליחיד.~ - תפוס (למא).
+* [Fair Division of Goods in the Shadow of Market Values (Dall'Aglio, 2021)](https://arxiv.org/abs/1910.01615) - ליחיד (עד פרק 3) או לזוג (עם פרק 4).
 * [The Combinatorial Assignment Problem (Budish, 2011)](https://doi.org/10.1086%2F664613) - לזוג.
 * [Minimizing envy and maximizing average Nash social welfare (Nguyen and Rothe, 2014)](https://doi.org/10.1137%2F0117039) - לזוג.
 * ~[Two-player fair division of indivisible items (Kilgour and Vetschera, 2018)](https://www.sciencedirect.com/science/article/pii/S0377221718304764) - לזוג~ - תפוס (איתי חסידי ועמיחי ביתן).
@@ -115,7 +115,7 @@ SIAM Journal on Discrete Mathematics - ליחיד (אלגוריתמים 1, 2).
 * [BoostLR: a boosting-based learning ensemble for label ranking tasks (Dery and Shmueli, 2020)](https://ieeexplore.ieee.org/abstract/document/9205798/) - ליחיד.
 * ~[Reaching consensus under a deadline (Dery et al, 2021)](https://link.springer.com/article/10.1007/s10458-020-09490-7) - ליחיד.~ - תפוס (רפאל).
 * [Star-Tracker Algorithm for Smartphones and Commercial Micro-Drones (Marbel,  Boaz Ben-Moshe, Yozevitch, 2020)](https://www.mdpi.com/1424-8220/20/4/1106) - ליחיד (אלגוריתמים 1,2) או לזוג (גם אלגוריתמים 3,4).
-* [Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.
+* ~[Vision-Less Sensing for Autonomous Micro-Drones  (Pikalov, Azaria, Sonnenberg, Ben-Moshe, 2021)](https://www.mdpi.com/1424-8220/21/16/5293) - ליחיד.~ - תפוס (למא).
 * ~[A Robust and Accurate Landing Methodology for Drones on Moving Targets  (Keller, Ben-Moshe, 2022)](https://www.mdpi.com/2504-446X/6/4/98) - ליחיד~ - תפוס (רז).
 * ~[HyperRes: Efficient Hypernetwork-Based Continuous Image Restoration (Aharon, Ben-Artzi, 2022)](https://arxiv.org/abs/2206.05970) - לזוג~ - תפוס (אסף ואריאל).
 * 

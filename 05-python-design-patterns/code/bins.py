@@ -29,6 +29,7 @@ class Bins(ABC):
     def result(self):
         return None
 
+
 class BinsKeepingSums(Bins):
     """
     A bins structure that keeps track only of the total sum in each bin.

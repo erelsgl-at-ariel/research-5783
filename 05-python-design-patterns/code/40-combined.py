@@ -166,5 +166,5 @@ if __name__ == "__main__":
     (failures, tests) = doctest.testmod(report=True, optionflags=doctest.NORMALIZE_WHITESPACE+doctest.ELLIPSIS)
     print("{} failures, {} tests".format(failures, tests))
 
-    print(partition_random_items(10, 16, algorithm=greedy, numbins=2, outputtype=out.Sums))
+    print(partition_random_items(10, 16, algorithm=greedy, numbins=2, outputtype=out.Partition))
     compare_algorithms_on_random_items(10, 16, numbins=2, outputtype=out.SortedSums, algorithm1=greedy, kwargs1={}, algorithm2=roundrobin, kwargs2={})

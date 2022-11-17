@@ -36,10 +36,10 @@ def greedy(numbins: int, items: Dict[str, float]):
     """
     bins = [[] for _ in range(numbins)]
     sums = [0 for _ in range(numbins)]
-    for item in sorted(items.keys(), key=lambda k: items[k], reverse=True):
+    for item_name in sorted(items.keys(), key=lambda item_name: items[item_name], reverse=True):
         index_of_least_full_bin = min(range(numbins), key=lambda i: sums[i])
-        bins[index_of_least_full_bin].append(item)
-        sums[index_of_least_full_bin] += items[item]
+        bins[index_of_least_full_bin].append(item_name)
+        sums[index_of_least_full_bin] += items[item_name]
     return bins
 
 

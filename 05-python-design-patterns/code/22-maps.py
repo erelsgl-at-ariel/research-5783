@@ -53,7 +53,7 @@ def greedy(numbins: int, items):
     """
     if isinstance(items, dict):  # items is a dict mapping an item to its value.
         item_names = items.keys()
-        valueof = lambda item: items[item]
+        valueof = lambda item_name: items[item_name]
     else:  # items is a list
         item_names = items
         valueof = lambda item: item

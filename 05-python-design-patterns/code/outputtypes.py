@@ -57,6 +57,7 @@ class SmallestSum(Sums):
     def extract_output_from_sums(cls, sums: List[float]) -> List:
         return min(sums)
 
+
 class Difference(Sums):
     # Output the difference between the largest and smallest sum.
     @classmethod

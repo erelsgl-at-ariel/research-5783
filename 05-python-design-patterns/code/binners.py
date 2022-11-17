@@ -200,7 +200,7 @@ class BinnerKeepingSums(Binner):
     BinsArray = np.ndarray    # Here, the bins-array is simply an array of the sums.
 
     def new_bins(self, numbins)->BinsArray:
-        bins = np.zeros(numbins)
+        bins = numbins*[0]
         return bins
 
     def copy_bins(self, bins: BinsArray)->BinsArray:
