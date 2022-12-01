@@ -12,8 +12,10 @@ def factorial(n):
 
     >>> [factorial(n) for n in range(6)]
     [1, 1, 2, 6, 24, 120]
+
     >>> factorial(30)
     265252859812191058636308480000000
+
     >>> factorial(-1)
     Traceback (most recent call last):
         ...
@@ -51,7 +53,7 @@ def factorial(n):
 
 if __name__ == "__main__":
     import doctest
-    doctest.testmod()
+    print(doctest.testmod())
 
     # To see passed tests too:
     # doctest.testmod(verbose=True)
