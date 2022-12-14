@@ -7,6 +7,7 @@ setup(
 
 
 # To compile, run the following command:
+#      pip install cython
 #      python setup.py build_ext --inplace
 # This should create the following files:
 #      hello.c
