@@ -24,6 +24,14 @@ def firstthreenumbers():
     """
     return [2,1,0]
 
+# 4: expressions
+def factorial(n):
+    """
+    >>> factorial(5)==1*2*3*4*5
+    True
+    """
+    return 1 if n<=1 else n*factorial(n-1)
+   
 
 
 if __name__ == "__main__":
