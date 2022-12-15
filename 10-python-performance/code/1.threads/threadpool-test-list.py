@@ -7,8 +7,6 @@ def sum_list(thelist:list):
 		s += x**3//10
 	return s
 
-start = time.perf_counter()
-
 LISTSIZE = 5000000
 big_list = list(range(LISTSIZE))
 
