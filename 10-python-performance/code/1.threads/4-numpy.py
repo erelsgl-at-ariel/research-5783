@@ -1,15 +1,13 @@
 import time 
 import concurrent.futures
+import numpy as np
 WORKERS=2
 
-def sum_list(thelist:list):
-	s = 0
-	for x in thelist:
-		s += x**3//10
-	return s
+def sum_list(thelist:np.array):
+	return np.sum(thelist**3//10)
 
-LISTSIZE = 5000000
-big_list = list(range(LISTSIZE))
+LISTSIZE = 10000000
+big_list = np.array(range(LISTSIZE), dtype='float64')
 
 def sequential():
     start = time.perf_counter()
