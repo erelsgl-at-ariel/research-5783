@@ -1,6 +1,6 @@
 import time 
 import concurrent.futures
-WORKERS=2
+WORKERS=4
 
 def do_something(index):
     print(f"Start {index}")
@@ -31,6 +31,6 @@ def processes():
 
 
 if __name__ == '__main__':
-    sequential()
+    # sequential()
     # threads()
-    # processes()
+    processes()

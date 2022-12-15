@@ -8,7 +8,7 @@ def sum_list(thelist:list):
 		s += x**3//10
 	return s
 
-LISTSIZE = 5000000
+LISTSIZE = 10000000
 big_list = list(range(LISTSIZE))
 
 def sequential():

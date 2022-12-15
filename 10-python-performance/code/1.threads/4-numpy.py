@@ -1,12 +1,12 @@
 import time 
 import concurrent.futures
 import numpy as np
-WORKERS=2
+WORKERS=4
 
 def sum_list(thelist:np.array):
 	return np.sum(thelist**3//10)
 
-LISTSIZE = 10000000
+LISTSIZE = 20000000
 big_list = np.array(range(LISTSIZE), dtype='float64')
 
 def sequential():

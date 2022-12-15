@@ -33,8 +33,6 @@ def njit_func(max_x,max_y,max_z):
                     lst.append(x)
     return lst
 
-
-
 max_x = 10
 max_y = 10
 max_z = 10
