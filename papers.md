@@ -41,6 +41,7 @@
 * ~[Search strategies for number partitioning (Moffitt, 2013)](https://www.ijcai.org/Proceedings/13/Papers/099.pdf) - ליחיד או לזוג.~ - תפוס (ניר)
 * ~[Optimally Scheduling Small Numbers of Identical Parallel Machines (Korf and Schreiber, 2013)](https://ojs.aaai.org/index.php/ICAPS/article/view/13544) - ליחיד או לזוג.~ - תפוס (יואל).
 * ~[Cached iterative weakening (Schreiber and Korf, 2014)](https://ojs.aaai.org/index.php/AAAI/article/view/9122) - ליחיד או לזוג~ - תפוס (איתן ושילה).
+* [Polynomial time algorithms for minimizing the weighted number of late jobs on a single machine with equal processing times (Baptiste, 1999)](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1099-1425(199911/12)2:6%3C245::AID-JOS28%3E3.0.CO;2-5) - ליחיד; או לזוג בתוספת המאמר הקצר הזה: https://arxiv.org/pdf/cs/0410046
 
 
 ##  חלוקה הוגנת של מקומות בקורסים בין סטודנטים
