@@ -10,9 +10,6 @@
 - **scipy**
 - **networkx**
 - **cvxpy**
-- **pandas**
-- **sqlite**
-- **sqlalchemy**
 
 
 את כל הסקריפטים של השיעור ניתן למצוא בתיקייה code.

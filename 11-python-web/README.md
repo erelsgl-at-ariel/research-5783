@@ -11,7 +11,6 @@
 - **Templates**
    - דפי html דינאמיים 
    - Error Screen
-- **Database - SQLALCHEMY**
 - **Forms- wtforms**
 - **Authentication**
    - flask-bcrypt

@@ -41,8 +41,11 @@ def loginform():
 def data():
     form = DataForm()
     if not form.validate_on_submit():
+        form.homepage.data = myhome.homepage
         return render_template('data.html', title='Data', form=form)
     else:
+        if form.homepage.data:
+            myhome.homepage = form.homepage.data
         if form.picture.data:
             myhome.picture_filename = save_picture(form.picture.data)
         return redirect(url_for(myhome.__name__))

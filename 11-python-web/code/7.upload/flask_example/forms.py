@@ -1,7 +1,7 @@
 from flask_wtf import FlaskForm
 from flask_wtf.file import FileField, FileAllowed
 from wtforms import StringField, PasswordField, SubmitField, BooleanField
-from wtforms.validators import DataRequired, Length
+from wtforms.validators import DataRequired, Length, Regexp
 
 class LoginForm(FlaskForm):
     username = StringField('Username', validators=[DataRequired()])
@@ -11,7 +11,7 @@ class LoginForm(FlaskForm):
 
 
 class DataForm(FlaskForm):
-    username = StringField('Username', validators=[DataRequired()])
+    homepage = StringField("Homepage", validators=[DataRequired(), Regexp("https?://.*")])
     picture = FileField('Update Profile Picture', validators=[FileAllowed(['jpg', 'png'])])    
     submit = SubmitField('Submit')
 
