@@ -52,3 +52,8 @@ def test_raise():
 
 # Run from the command line:
 #     pytest test_gymatria.py
+
+
+if __name__=="__main__":
+    pytest.main()
+
