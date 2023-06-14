@@ -1,5 +1,5 @@
 """
-Illustrates some potential problems in doctest.
+Illustrates solutions to some potential problems in doctest.
 """
 
 def div3(n):

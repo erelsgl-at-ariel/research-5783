@@ -55,5 +55,6 @@ def test_raise():
 
 
 if __name__=="__main__":
-    pytest.main()
-
+    # To run from the command line:
+    # pytest test_gymatria.py
+    pytest.main(["-v", __file__])

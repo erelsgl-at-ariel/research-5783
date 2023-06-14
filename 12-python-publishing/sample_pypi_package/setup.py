@@ -15,7 +15,6 @@ setuptools.setup(
     name=NAME,
     version=VERSION,
 
-    # packages=setuptools.find_packages(exclude=["tests"]),
     packages=setuptools.find_packages(),
     install_requires=REQUIRES,
 
